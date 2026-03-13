@@ -1,0 +1,12 @@
+﻿,,,,Dimension (location)
+,,,,location_id (PK)
+,,,,country_name
+,,,,country_code
+,,,,location_description
+Fact,,,,location_accuracy
+event_id,,,,longitude
+location_id,,,,latitude
+fatality_count,,,,admin_division_name
+injury_count,,,,admin_division_population
+admin_division_population,,,,gazeteer_closest_point
+,,,,gazeteer_distance
