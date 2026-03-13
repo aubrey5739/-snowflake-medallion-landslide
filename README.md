@@ -1,7 +1,7 @@
 # The Moving Earth: Understanding Landslide Events
 
 > MIS 381N: Information Management | Team ClawJawCoil  
-> Melissa Cai Shi · Cassandre Korvink · **Mikyung Oh**  
+> Melissa Cai Shi · Cassandre Korvink · **Aubrey Oh**  
 > University of Texas at Austin · Fall 2025
 
 ---
